@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Development/flutter"
+		}
+	],
+	"settings": {
+		"html.format.enable": false
+	}
+}
